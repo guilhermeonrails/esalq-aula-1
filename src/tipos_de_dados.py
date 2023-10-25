@@ -1,0 +1,7 @@
+print(type('Hello World'))
+print(type(True))
+print(type(False))
+print(type(None))
+print(type(2**3))
+print(type(3.14))
+print(type({'nome':'Guilherme'}))
