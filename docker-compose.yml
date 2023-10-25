@@ -4,4 +4,3 @@ services:
     build: .
     volumes:
       - ./src:/app
-    command: python src/app.py
